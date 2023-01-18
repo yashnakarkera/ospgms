@@ -65,4 +65,4 @@ Enter burst time of process 3:
 Enter burst time of process 4:
 3
 Average turn around time = 11
-Average waiting time = 7
+Average waiting time = 7 
