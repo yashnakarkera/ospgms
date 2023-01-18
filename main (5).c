@@ -37,5 +37,5 @@ Child process created successfully
 
 Its process id is 5791
 Now in child process and its o/p is
-a.out  main.c
+a.out  main.c 
 Return back to parent process now ready to exit
