@@ -50,3 +50,19 @@ int main()
     return 0;
 }
 
+OUTPUT
+
+Enter the number of processes
+4
+Enter time quantum:
+2
+Enter burst time of process 1:
+2
+Enter burst time of process 2:
+5
+Enter burst time of process 3:
+6
+Enter burst time of process 4:
+3
+Average turn around time = 11
+Average waiting time = 7
