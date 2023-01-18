@@ -41,3 +41,29 @@ int main()
 
     }
 
+OUTPUT
+
+
+Enter the directory name:YAS
+
+Enter the number of files:3
+
+Enter file name to be created:AA
+1
+Do you want to enter another file(yes - 1 or no - 0):1
+
+Enter file name to be created:BB
+2
+Do you want to enter another file(yes - 1 or no - 0):1
+
+Enter file name to be created:CC
+3
+Do you want to enter another file(yes - 1 or no - 0):0
+
+
+Directory name is:YAS
+
+Files names are:
+AA
+BB
+CC
