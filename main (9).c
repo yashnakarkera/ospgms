@@ -89,3 +89,28 @@ int main() {
     
     return 0;
 }
+
+
+OUTPUT
+
+Enter the number of process: 3
+Enter the number of resources: 2
+Enter the max matrix for each process 
+Process 1: 
+1  2
+Process 2: 3    4
+Process 3: 1    4
+Enter the allocation for each process 
+Process 1:      3       4
+Process 2: 1    3
+Process 3: 1    6
+Enter the available resourses:  1       2       7
+Max matrix       allocation matrix
+1 2             3 4 
+3 4             1 3 
+1 4             1 6 
+process 1 runs to completion!
+process 2 runs to completion!
+process 3 runs to completion!
+the system is in safe state
+safe sequence: <1 2 3 >
