@@ -53,4 +53,18 @@ int main()
 }
 
 
+OUTPUT
+
+Enter the index block: 5
+Enter no of blocks needed and no of files for the index 5 on the disk : 
+2
+Enter the index for each file:
+1
+
+2
+Allocated
+File Indexed
+5-------->1 : 1
+5-------->2 : 1
+Do you want to enter more file(Yes - 1/No - 0): 0
 
