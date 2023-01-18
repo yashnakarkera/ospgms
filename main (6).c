@@ -31,7 +31,7 @@ int main()
                 printf("\n");
       }
     printf("Page Fault Is %d",count);
-    return 0;
+    return 0; 
 }
 
 
