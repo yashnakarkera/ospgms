@@ -63,3 +63,26 @@ void consumer()
     x--;
     mutex = signal(mutex);
 }
+
+
+OUTPUT
+1.Producer
+2.Consumer
+3.Exit
+
+Enter your choice:1
+Prodcer produces the item 1
+
+Enter your choice:2
+Consumer consumes item 1
+
+Enter your choice:1
+Prodcer produces the item 1
+
+Enter your choice:1
+Prodcer produces the item 2
+
+Enter your choice:2
+Consumer consumes item 2
+
+Enter your choice:3
