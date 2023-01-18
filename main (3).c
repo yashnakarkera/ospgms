@@ -15,3 +15,9 @@ void main()
     close(fd);
     close(fd1);
 }
+
+#BABE NOTE:CREATE A TXT FILE IN THE SYSTEM NAMED ONE.TXT 
+
+OUTPUT
+
+File scuucessfully copied
