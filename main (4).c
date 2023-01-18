@@ -24,3 +24,13 @@ void main()
         printf("Child process id is %d\n",pid);
     }
 }
+
+OUTPUT
+
+Child processs
+Child process id is 3537
+Parent process id is 3533
+Finished with child process
+Parent process
+Parent process id is 3533
+Child process id is 3537
