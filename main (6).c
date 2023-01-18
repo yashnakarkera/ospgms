@@ -34,3 +34,23 @@ int main()
     return 0;
 }
 
+
+OUTPUT
+
+
+ ENTER THE NUMBER OF PAGES:
+7
+
+ ENTER THE PAGE NUMBER :
+1       2       4       1       5       3       2        
+
+ ENTER THE NUMBER OF FRAMES :1
+        ref string       page frames
+1               1
+2               2
+4               4
+1               1
+5               5
+3               3
+2               2
+Page Fault Is 7
